@@ -1,56 +1,53 @@
-👋 Hi, I’m Arnav Gupta (@arnavgupta007)
+# 👋 Hi, I'm Arnav Gupta
 
-B.Tech Computer Science student from Delhi, India, focused on building clean, scalable, and interactive web applications. 
-I specialize in frontend development with a growing interest in backend systems and generative AI integrations.
+I'm a self-driven developer passionate about turning AI and Python expertise into creative solutions.
 
-🔧 Skills:
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Python (Flask), REST APIs
-- Tools: Git, Netlify, Render, GitHub, VS Code
+- 🔭 Exploring Generative AI & NLP
+- 🛠️ Python (Flask), React.js, REST APIs
+- 🌱 Learning advanced backend and AI integrations
+- 🎓 Student at XYZ Institute of Technology, SIE Program
+- ⚡ Fun Fact: I turn Reddit profiles into personality reports!
 
-📚 Currently:
-- Learning React.js deeply and building real-world applications
-- Exploring AI APIs and NLP-based systems
+---
 
-📬 Contact:
-- Email: arnavgupta.dev@gmail.com
-- LinkedIn: https://linkedin.com/in/arnavgupta007
-- GitHub: https://github.com/arnavgupta007
+## 🚀 Featured Projects
 
-─────────────────────────────────────────────
+### Imagino – AI Image Generator  
+*Generate unique images from text prompts using state-of-the-art AI.*
 
-🚀 Featured Projects
-─────────────────────────────────────────────
+- 🔗 [Live Demo](https://imaginoimages.netlify.app/) | 💻 [Code](https://github.com/arnavgupta007/imagino)
+- **Tech:** React, ClipDrop API, Netlify
+- *Features: Modern UI, fast inference, loads of fun!*
 
-🎨 Imagino – AI Image Generator
-Generate images from text prompts using OpenAI or similar image generation APIs.
+### Reddit Persona Analyzer  
+*Analyze Reddit profiles for psychological traits and generate custom persona reports.*
 
-🔗 Live:   https://imagino-ai.netlify.app/
-💻 Repo:   https://github.com/arnavgupta007/imagino
-🛠️ Stack: React, OpenAI API, Netlify
+- 🔗 [Live Demo](https://reddituseranalyser.netlify.app/)
+- 💻 [Frontend](https://github.com/arnavgupta007/reddit-persona-frontend)
+- ⚙️ [Backend](https://github.com/arnavgupta007/reddit-persona-backend)
+- **Tech:** React, Flask, PRAW, Render
 
+---
 
-─────────────────────────────────────────────
+## 🧰 Tech Stack
 
-🧠 Reddit Persona Analyzer
-Analyze any Reddit user's public activity and generate a persona summary.
+**Frontend:** React  
+**Backend:** Python, Flask  
+**APIs:** REST, ClipDrop  
+**Tools:** Git, VS Code  
+**Deployment:** Netlify, Render
 
-🔗 Live:     https://reddituseranalyser.netlify.app/
-💻 Frontend: https://github.com/arnavgupta007/reddit-persona-frontend
-⚙️ Backend:  https://github.com/arnavgupta007/reddit-persona-backend
-🛠️ Stack:    React, Flask, PRAW, Netlify, Render
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ...
 
-─────────────────────────────────────────────
+---
 
-📊 GitHub Stats
-─────────────────────────────────────────────
+## 📫 Connect
 
-🔗 Stats:        https://github-readme-stats.vercel.app/api?username=arnavgupta007&show_icons=true&theme=dracula
-🔗 Top Langs:    https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta007&layout=compact&theme=dracula
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arnav-gupta-42a376258/)  
+Email: arnavgupta.dev@email.com
 
-─────────────────────────────────────────────
+---
 
-✅ More
-- Open to frontend-focused collaborations or internships
-- Strong foundation in UI, APIs, and Git-based workflows
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnavgupta007&show_icons=true&theme=radical)
