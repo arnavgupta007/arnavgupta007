@@ -44,7 +44,6 @@ I'm a self-driven developer passionate about turning AI and Python expertise int
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arnav-gupta-42a376258/)  
-Email: arnavgupta.dev@email.com
 
 ---
 
