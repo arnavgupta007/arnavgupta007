@@ -5,7 +5,7 @@ I'm a self-driven developer passionate about turning AI and Python expertise int
 - 🔭 Exploring Generative AI & NLP
 - 🛠️ Python (Flask), React.js, REST APIs
 - 🌱 Learning advanced backend and AI integrations
-- 🎓 Student at XYZ Institute of Technology, SIE Program
+- 🎓 Student at Graphic Era University
 - ⚡ Fun Fact: I turn Reddit profiles into personality reports!
 
 ---
