@@ -15,7 +15,7 @@ I'm a self-driven developer passionate about turning AI and Python expertise int
 ### Imagino – AI Image Generator  
 *Generate unique images from text prompts using state-of-the-art AI.*
 
-- 🔗 [Live Demo](https://imaginoimages.netlify.app/) | 💻 [Code](https://github.com/arnavgupta007/imagino)
+- 🔗 [Live Demo](https://imaginoimages.netlify.app/) |
 - **Tech:** React, ClipDrop API, Netlify
 - *Features: Modern UI, fast inference, loads of fun!*
 
