@@ -1,14 +1,29 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="150" height="150"/>
-  
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00FFD2&center=true&vCenter=true&width=600&height=70&lines=Hey!+I'm+Arnav+Gupta+👋;arnavgupta007" alt="Typing SVG"/>
-  </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&width=700&height=50&lines=🚁+Drone+GCS+Engineer;🤖+AI+%2F+NLP+Builder;🧠+Reddit+Persona+Analyst;⚡+ESP32+%2F+Embedded+Hacker;🐍+Pythonista+%7C+Flask+%7C+React" alt="Typing SVG"/>
+<table border="0" align="center">
+<tr>
+<td align="center" width="50%">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:00f5ff&height=100&section=header&animation=twinkling" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="120"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFD2&center=true&vCenter=true&width=400&height=60&lines=Hey!+I'm+Arnav+👋;arnavgupta007" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&width=400&height=45&lines=🚁+Drone+GCS+Engineer;🤖+AI+%2F+NLP+Builder;🧠+Reddit+Persona+Analyst;⚡+ESP32+Hacker;🐍+Flask+%7C+React" alt="Typing SVG"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+<br>
+<i>me at 3am pushing to main 💀</i>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:00f5ff&height=80&section=header&animation=twinkling" width="100%"/>
+
 </div>
 <!-- TYPING BANNER -->
 <p align="center">
