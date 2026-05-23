@@ -171,8 +171,8 @@ No GPT wrapper — actual implementation.
 </h2>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-eta-14.vercel.app/api?username=arnavgupta007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFD2&ring_color=00FFD2&icon_color=00FFD2"/>
-  <img height="180em" src="https://github-readme-stats-eight-eta-14.vercel.app/api/top-langs/?username=arnavgupta007&layout=compact&theme=tokyonight&border_color=00FFD2&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=arnavgupta007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFD2&ring_color=00FFD2&icon_color=00FFD2"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arnavgupta007&layout=compact&theme=tokyonight&border_color=00FFD2&langs_count=8"/>
 </p>
 
 <p align="center">
