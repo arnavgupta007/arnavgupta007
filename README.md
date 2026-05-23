@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/main/banner.png" width="100%"/>
 
 <!-- PIKACHU + NAME SIDE BY SIDE -->
 <table border="0" align="center" width="100%">
@@ -18,9 +18,11 @@
 
 <!-- MEME SECTION -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="250"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="250"/>
   <br>
   <i>me at 3am pushing to main 💀</i>
 </p>
