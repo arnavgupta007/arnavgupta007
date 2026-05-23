@@ -1,5 +1,15 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=180&section=header&text=ARNAV%20GUPTA&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=32&desc=Building%20Things%20That%20Shouldn't%20Exist%20👾&descAlignY=55&descSize=18&descColor=00ff00"/>
+<!-- HEADER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="150" height="150"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00FFD2&center=true&vCenter=true&width=600&height=70&lines=Hey!+I'm+Arnav+Gupta+👋;arnavgupta007" alt="Typing SVG"/>
+  </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&width=700&height=50&lines=🚁+Drone+GCS+Engineer;🤖+AI+%2F+NLP+Builder;🧠+Reddit+Persona+Analyst;⚡+ESP32+%2F+Embedded+Hacker;🐍+Pythonista+%7C+Flask+%7C+React" alt="Typing SVG"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:00f5ff&height=100&section=header&animation=twinkling" width="100%"/>
+</div>
 <!-- TYPING BANNER -->
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00FFD2&center=true&vCenter=true&width=700&height=60&lines=Drone+GCS+Engineer;AI+%2F+NLP+Builder;Reddit+Persona+Analyst;ESP32+%2F+Embedded+Hacker;Pythonista+%7C+Flask+%7C+React" alt="Typing SVG" />
