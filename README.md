@@ -3,7 +3,7 @@
 
 <!-- TYPING BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=00FFD2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚁+Drone+GCS+Engineer;🤖+AI+%2F+NLP+Builder;🧠+Reddit+Persona+Analyst;⚡+ESP32+%2F+Embedded+Hacker;🐍+Pythonista+%7C+Flask+%7C+React" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00FFD2&center=true&vCenter=true&width=700&height=60&lines=Drone+GCS+Engineer;AI+%2F+NLP+Builder;Reddit+Persona+Analyst;ESP32+%2F+Embedded+Hacker;Pythonista+%7C+Flask+%7C+React" alt="Typing SVG" />
 </p>
 
 <!-- NEON SEPARATOR -->
@@ -171,8 +171,8 @@ No GPT wrapper — actual implementation.
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnavgupta007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFD2&ring_color=00FFD2&icon_color=00FFD2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta007&layout=compact&theme=tokyonight&border_color=00FFD2&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-eight-eta-14.vercel.app/api?username=arnavgupta007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFD2&ring_color=00FFD2&icon_color=00FFD2"/>
+  <img height="180em" src="https://github-readme-stats-eight-eta-14.vercel.app/api/top-langs/?username=arnavgupta007&layout=compact&theme=tokyonight&border_color=00FFD2&langs_count=8"/>
 </p>
 
 <p align="center">
