@@ -5,6 +5,15 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00FFD2&center=true&vCenter=true&width=700&height=60&lines=Drone+GCS+Engineer;AI+%2F+NLP+Builder;Reddit+Persona+Analyst;ESP32+%2F+Embedded+Hacker;Pythonista+%7C+Flask+%7C+React" alt="Typing SVG" />
 </p>
+</p>
+
+<!-- MEME -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+  <br>
+  <i>me at 3am pushing to main</i>
+</p>
+
 
 <!-- NEON SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
