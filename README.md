@@ -1,47 +1,32 @@
-<!-- HEADER -->
-<div align="center">
 
-<table border="0" align="center">
+
+<!-- PIKACHU + NAME SIDE BY SIDE -->
+<table border="0" align="center" width="100%">
 <tr>
-<td align="center" width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="120"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFD2&center=true&vCenter=true&width=400&height=60&lines=Hey!+I'm+Arnav+👋;arnavgupta007" alt="Typing SVG"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&width=400&height=45&lines=🚁+Drone+GCS+Engineer;🤖+AI+%2F+NLP+Builder;🧠+Reddit+Persona+Analyst;⚡+ESP32+Hacker;🐍+Flask+%7C+React" alt="Typing SVG"/>
-
+<td align="center" width="30%">
+<img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="180"/>
 </td>
-<td align="center" width="50%">
+<td align="left" width="70%">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
-<br>
-<i>me at 3am pushing to main 💀</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFD2&center=false&vCenter=true&width=500&height=60&lines=Hey!+I'm+Arnav+Gupta+👋" alt="Name"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B9D&center=false&vCenter=true&width=500&height=45&lines=🚁+Drone+GCS+Engineer;🤖+AI+%2F+NLP+Builder;🧠+Reddit+Persona+Analyst;⚡+ESP32+%2F+Embedded+Hacker;🐍+Pythonista+%7C+Flask+%7C+React" alt="Roles"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:00f5ff&height=80&section=header&animation=twinkling" width="100%"/>
-
-</div>
-<!-- TYPING BANNER -->
+<!-- MEME SECTION -->
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00FFD2&center=true&vCenter=true&width=700&height=60&lines=Drone+GCS+Engineer;AI+%2F+NLP+Builder;Reddit+Persona+Analyst;ESP32+%2F+Embedded+Hacker;Pythonista+%7C+Flask+%7C+React" alt="Typing SVG" />
-</p>
-</p>
-
-<!-- MEME -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
   <br>
-  <i>me at 3am pushing to main</i>
+  <i>me at 3am pushing to main 💀</i>
 </p>
-
 
 <!-- NEON SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- MATRIX STYLE ABOUT -->
 <div align="center">
 
