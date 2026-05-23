@@ -29,36 +29,59 @@
 
 <!-- NEON SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- MATRIX STYLE ABOUT -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+&nbsp;&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=00FFD2&center=true&vCenter=true&width=400&height=35&lines=Initializing+profile...;Loading+Arnav+Gupta...;Access+Granted+✅" alt="Terminal Loading"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+</div>
+<!-- TERMINAL BOX -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    > whoami                                                  ║
-║                                                              ║
-║      NAME     : Arnav Gupta                                  ║
-║      ALIAS    : arnavgupta007                                ║
-║      COLLEGE  : Graphic Era University                       ║
-║      DEGREE   : B.Tech Computer Science                      ║
-║      WEAPON   : Python, C++, React, Flask                    ║
-║      MISSION  : Turn caffeine into code                      ║
-║                                                              ║
-║    > current_obsession                                       ║
-║                                                              ║
-║      [ ████████████░░░░ ] Drone GCS Systems                  ║
-║      [ ██████████░░░░░░ ] Generative AI                      ║
-║      [ ████████░░░░░░░░ ] NLP + Persona Analysis             ║
-║      [ ██████░░░░░░░░░░ ] Embedded (ESP32)                   ║
-║                                                              ║
-║    > fun_fact                                                ║
-║      I built a GCS that talks to real drones. No big deal.   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+```ansi
+╔════════════════════════════════════════════════════════════╗
+║  ┌─────────────────────────────────────────────────────┐  ║
+║  │  arnavgupta007@github: ~$                           │  ║
+║  └─────────────────────────────────────────────────────┘  ║
+║                                                            ║
+║  $ whoami                                                  ║
+║  ┌─────────────────────────────────────────────────────┐  ║
+║  │  NAME     ›  Arnav Gupta                            │  ║
+║  │  ALIAS    ›  arnavgupta007                          │  ║
+║  │  COLLEGE  ›  Graphic Era University                 │  ║
+║  │  DEGREE   ›  B.Tech Computer Science                │  ║
+║  │  STATUS   ›  Building things that shouldn't exist   │  ║
+║  └─────────────────────────────────────────────────────┘  ║
+║                                                            ║
+║  $ cat skills.txt                                          ║
+║  ┌─────────────────────────────────────────────────────┐  ║
+║  │  WEAPONS  ›  Python · C++ · React · Flask           │  ║
+║  │  DOMAINS  ›  AI/ML · Drones · NLP · Embedded        │  ║
+║  │  TOOLS    ›  Git · AWS · MongoDB · Linux             │  ║
+║  └─────────────────────────────────────────────────────┘  ║
+║                                                            ║
+║  $ cat obsessions.log                                      ║
+║  ┌─────────────────────────────────────────────────────┐  ║
+║  │  [████████████░░░] 75%  Drone GCS Systems           │  ║
+║  │  [██████████░░░░░] 65%  Generative AI               │  ║
+║  │  [████████░░░░░░░] 55%  NLP + Persona Analysis      │  ║
+║  │  [██████░░░░░░░░░] 40%  ESP32 Embedded              │  ║
+║  └─────────────────────────────────────────────────────┘  ║
+║                                                            ║
+║  $ cat fun_fact.txt                                        ║
+║  ┌─────────────────────────────────────────────────────┐  ║
+║  │  I built a GCS that talks to REAL flying drones.    │  ║
+║  │  Also I turn Reddit profiles into therapy reports.  │  ║
+║  │  No big deal. 😎                                    │  ║
+║  └─────────────────────────────────────────────────────┘  ║
+║                                                            ║
+║  $ _                                                       ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
-
 <!-- NEON SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -159,20 +182,26 @@ No GPT wrapper — actual implementation.
 <!-- NEON SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TECH STACK -->
+<!-- ARSENAL -->
 <h2 align="center">⚡ ARSENAL ⚡</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,html,css&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vscode,linux,aws,netlify&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,vscode,linux,aws&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,arduino,jupyter,github,postman&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=flutter,github,postman,docker,netlify,jupyter&theme=dark&perline=6" />
 </p>
 
-<!-- LANGUAGE BADGES -->
+<!-- QML + Qt as badges since skillicons doesn't have them -->
+<p align="center">
+  <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=0d1117"/>
+</p>
+
+<!-- SKILL LEVEL BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
@@ -251,14 +280,54 @@ No GPT wrapper — actual implementation.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
 </p>
+<!-- NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <br>
-  <em><b>I love connecting with different people</b> — if you want to say hi, I'll be happy to meet you! 😊</em>
-  <br><br>
-  <b>⭐ Drop a star on something if you like it. It costs nothing and means a lot.</b>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=500&color=00FFD2&center=true&vCenter=true&width=600&height=45&lines=Thanks+for+visiting!+👾;Let's+build+something+crazy+together!+🚀;Drop+a+⭐+if+you+like+what+you+see!" alt="Footer typing"/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200"/>
+
+<br><br>
+
+<pre>
+if (youLikedIt) {
+    drop a ⭐ somewhere
+}
+if (wantToCollaborate) {
+    hitMeUp() // anytime 😎
+}
+// costs nothing
+// means everything 🙏
+</pre>
+
+<br>
+
+<a href="https://www.linkedin.com/in/arnav-gupta-42a376258/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:arnavhardwar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://reddituseranalyser.netlify.app/">
+  <img src="https://img.shields.io/badge/Reddit_Analyser-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>&nbsp;
+<a href="https://imaginoimages.netlify.app/">
+  <img src="https://img.shields.io/badge/Imagino_AI-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=arnavgupta007&style=for-the-badge&color=00FFD2&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/arnavgupta007?style=for-the-badge&color=00FFD2&labelColor=0d1117&label=FOLLOWERS"/>
+
+<br><br>
+
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
