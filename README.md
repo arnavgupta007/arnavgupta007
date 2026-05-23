@@ -1,188 +1,244 @@
-<!-- GREETING TYPING ANIMATION -->
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARNAV%20GUPTA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Things%20That%20Shouldn't%20Exist%20👾&descAlignY=55&descSize=18"/>
+
+<!-- TYPING BANNER -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2300D4FF&height=67&duration=3000&center=true&lines=Hey+There!+👋;I'm+Arnav+Gupta;AI+%7C+Backend+%7C+Builder;Welcome+to+my+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=00FFD2&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚁+Drone+GCS+Engineer;🤖+AI+%2F+NLP+Builder;🧠+Reddit+Persona+Analyst;⚡+ESP32+%2F+Embedded+Hacker;🐍+Pythonista+%7C+Flask+%7C+React" alt="Typing SVG" />
 </p>
-<!-- ANIMATED LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- INTRO SECTION -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=%2300D4FF&center=true&vCenter=true&width=600&lines=Self-driven+Developer+%F0%9F%92%BB;Building+AI-Powered+Solutions+%F0%9F%A4%96;Scalable+Backend+Systems+%E2%9A%99%EF%B8%8F;CS+Student+%40+Graphic+Era+University+%F0%9F%8E%93">
-</p>
-<!-- CAPSULE HEADER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Arnav%20Gupta&fontSize=50&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn">
-</p>
-<!-- ASCII ART SECTION -->
+
+<!-- NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- MATRIX STYLE ABOUT -->
 <div align="center">
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                                       @@
-@@      ___  ____  _  _  __   _  _                      @@
-@@     / __)(  _ \( \( )/  \ ( \/ )                     @@
-@@    ( (_ \ )   / )  (( () ) \  /                       @@
-@@     \___/(_)\_)(_)\_)\__/  (__)                       @@
-@@                                                       @@
-@@   "Programming isn't about what you know —           @@
-@@        It's about what you can figure out"           @@
-@@                                                       @@
-@@   [ Python ] [ Flask ] [ React ] [ AI/ML ]           @@
-@@                                                       @@
-@@         while not (success):                         @@
-@@              try()                                    @@
-@@                                                       @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
 ```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    > whoami                                                  ║
+║                                                              ║
+║      NAME     : Arnav Gupta                                  ║
+║      ALIAS    : arnavgupta007                                ║
+║      COLLEGE  : Graphic Era University                       ║
+║      DEGREE   : B.Tech Computer Science                      ║
+║      WEAPON   : Python, C++, React, Flask                    ║
+║      MISSION  : Turn caffeine into code                      ║
+║                                                              ║
+║    > current_obsession                                       ║
+║                                                              ║
+║      [ ████████████░░░░ ] Drone GCS Systems                  ║
+║      [ ██████████░░░░░░ ] Generative AI                      ║
+║      [ ████████░░░░░░░░ ] NLP + Persona Analysis             ║
+║      [ ██████░░░░░░░░░░ ] Embedded (ESP32)                   ║
+║                                                              ║
+║    > fun_fact                                                ║
+║      I built a GCS that talks to real drones. No big deal.   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
-<!-- CAPSULE FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:0f2027,100:2c5364">
-</p>
-<!-- ANIMATED LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- ABOUT ME -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%2300D4FF&center=true&width=400&lines=ABOUT+ME+🧑‍💻">
-</p>
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-```yaml
-Name      : Arnav Gupta
-Username  : arnavgupta007
-College   : Graphic Era University
-Degree    : B.Tech Computer Science
-Focus     : AI / Backend / Web Dev
-Languages : Python, JavaScript, Dart
-Interests : Generative AI, NLP, APIs
-Fun Fact  : I turn Reddit profiles into personality reports! 🤯
-```
-<!-- ANIMATED LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- PROJECTS SECTION -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+  &nbsp; THINGS I BUILT &nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚁 GCS — Drone Ground Control System
+> C++ · QML · MAVLink · Real Hardware
+
+Built a **full ground control station** for drones from scratch.
+Arm/disarm, telemetry, auto-reconnect, live sensor feeds.
+This thing talks to **real flying hardware**.
+
+`C++` `QML` `CMake` `Embedded` `MAVLink`
+
+</td>
+<td width="50%">
+
+### 🧠 Reddit Persona Analyzer
+> Python · Flask · PRAW · React · Render
+
+Scrapes Reddit profiles and generates **psychological personas**.
+It judges people better than their therapists.
+
+[![Frontend](https://img.shields.io/badge/🔗_Live_Demo-FF4500?style=flat-square)](https://reddituseranalyser.netlify.app/)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-grey?style=flat-square)](https://github.com/arnavgupta007/reddit-persona-backend)
+
+`Python` `Flask` `PRAW` `React` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Imagino — AI Image Generator
+> React · ClipDrop API · Netlify
+
+Text → stunning AI images. Clean UI, fast inference.
+Type a thought, get a painting.
+
+[![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://imaginoimages.netlify.app/)
+
+`React` `ClipDrop API` `Netlify`
+
+</td>
+<td width="50%">
+
+### 🛸 ESP32 Glider Controller
+> HTML · ESP32 · WebSocket
+
+Wireless glider control via browser over ESP32 WebSocket.
+Because remote controls are too mainstream.
+
+[![Repo](https://img.shields.io/badge/📁_Repo-181717?style=flat-square&logo=github)](https://github.com/arnavgupta007/ESp32-glider-controller)
+
+`ESP32` `HTML` `WebSocket` `Embedded`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 Phishing URL Detector
+> Python · ML · Jupyter · Scikit-learn
+
+ML model that sniffs out phishing URLs.
+Protecting people from their own clicks.
+
+[![Repo](https://img.shields.io/badge/📁_Repo-181717?style=flat-square&logo=github)](https://github.com/arnavgupta007/phishing-url-detector)
+
+`Python` `Scikit-learn` `Jupyter` `ML`
+
+</td>
+<td width="50%">
+
+### 🤖 NLP Chatbot
+> Python · Jupyter · NLP
+
+A chatbot built with raw NLP techniques.
+No GPT wrapper — actual implementation.
+
+[![Repo](https://img.shields.io/badge/📁_Repo-181717?style=flat-square&logo=github)](https://github.com/arnavgupta007/Implementaion-of-chatbot-using-nlp)
+
+`Python` `NLP` `NLTK` `Jupyter`
+
+</td>
+</tr>
+</table>
+
+<!-- NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- TECH STACK -->
+<h2 align="center">⚡ ARSENAL ⚡</h2>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%2300D4FF&center=true&width=400&lines=TECH+STACK+🛠️">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,html,css&theme=dark&perline=7" />
 </p>
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vscode,linux,aws,netlify&theme=dark&perline=7" />
 </p>
 <p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,arduino,jupyter,github,postman&theme=dark&perline=7" />
 </p>
+
+<!-- LANGUAGE BADGES -->
 <p align="center">
-  <!-- Tools & DB -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/React-Comfortable-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117"/>
 </p>
-<!-- INTEREST LOGOS -->
+
+<!-- NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- STATS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  &nbsp;NUMBERS&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</h2>
+
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnavgupta007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFD2&ring_color=00FFD2&icon_color=00FFD2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavgupta007&layout=compact&theme=tokyonight&border_color=00FFD2&langs_count=8"/>
 </p>
-<!-- ANIMATED LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- FEATURED PROJECTS -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%2300D4FF&center=true&width=500&lines=🚀+FEATURED+PROJECTS">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavgupta007&theme=tokyonight&border=00FFD2&ring=00FFD2&fire=FF6B6B&currStreakLabel=00FFD2" />
 </p>
-<p align="center">
-<a href="https://github.com/arnavgupta007/reddit-persona-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnavgupta007&repo=reddit-persona-backend&theme=radical&border_color=00D4FF">
-</a>
-<a href="https://github.com/arnavgupta007/reddit-persona-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnavgupta007&repo=reddit-persona-frontend&theme=radical&border_color=00D4FF">
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/arnavgupta007/text_to_image_frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnavgupta007&repo=text_to_image_frontend&theme=radical&border_color=00D4FF">
-</a>
-<a href="https://github.com/arnavgupta007/phishing-url-detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnavgupta007&repo=phishing-url-detector&theme=radical&border_color=00D4FF">
-</a>
-</p>
-<!-- ANIMATED LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- GITHUB STATS -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%2300D4FF&center=true&width=400&lines=📊+GITHUB+STATS">
-</p>
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arnavgupta007&show_icons=true&theme=radical&border_color=00D4FF">
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavgupta007&theme=radical&border=00D4FF">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavgupta007&theme=radical&layout=compact&border_color=00D4FF&langs_count=6">
-</p>
+
 <!-- TROPHIES -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arnavgupta007&theme=radical&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,Repositories">
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnavgupta007&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10&title=Commits,Repositories,MultiLanguage,Followers"/>
+</p>
+
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavgupta007&theme=react-dark&hide_border=true&color=00D4FF&line=00D4FF&point=FF6EC7" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavgupta007&bg_color=1a1b27&color=00FFD2&line=00FFD2&point=FF6B6B&area=true&hide_border=true&area_color=00FFD230" width="100%"/>
+
+<!-- NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- SNAKE -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=%2300D4FF&center=true&width=500&lines=🐍+Watch+my+contributions+get+eaten...">
-</p>
-<img src="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/snake/github-contribution-grid-snake-dark.svg" width="100%">
-> ⚠️ **Note:** The snake animation needs a GitHub Action set up — see instructions below!
-<!-- ANIMATED LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h2 align="center">🐍 MY CONTRIBUTIONS BEING DEVOURED 🐍</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/snake/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<!-- NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- CONNECT -->
+<h2 align="center">📡 FIND ME</h2>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%2300D4FF&center=true&width=500&lines=📫+CONNECT+WITH+ME">
+  <a href="https://www.linkedin.com/in/arnav-gupta-42a376258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:arnavhardwar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://reddituseranalyser.netlify.app/">
+    <img src="https://img.shields.io/badge/Reddit_Analyser-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://imaginoimages.netlify.app/">
+    <img src="https://img.shields.io/badge/Imagino_AI-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
 <p align="center">
-<a href="https://www.linkedin.com/in/arnav-gupta-42a376258/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:arnavhardwar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/arnavgupta007">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://reddituseranalyser.netlify.app/">
-  <img src="https://img.shields.io/badge/Reddit_Analyser-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-<a href="https://imaginoimages.netlify.app/">
-  <img src="https://img.shields.io/badge/Imagino_AI-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=arnavgupta007&style=for-the-badge&color=00FFD2&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/arnavgupta007?style=for-the-badge&color=00FFD2&labelColor=0d1117&label=FOLLOWERS"/>
 </p>
-<!-- VIEWS COUNTER -->
+
+<!-- QUOTE -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=arnavgupta007&color=00D4FF&style=for-the-badge">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
 </p>
-<!-- FUN QUOTE -->
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
-<!-- FOOTER WAVE -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2c5364,50:203a43,100:0f2027">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   <br>
-  <b>⭐️ From <a href="https://github.com/arnavgupta007">arnavgupta007</a> — If you like this profile, drop a star on a repo! ⭐️</b>
+  <em><b>I love connecting with different people</b> — if you want to say hi, I'll be happy to meet you! 😊</em>
+  <br><br>
+  <b>⭐ Drop a star on something if you like it. It costs nothing and means a lot.</b>
 </p>
