@@ -306,27 +306,8 @@ if (wantToCollaborate) {
 </pre>
 
 <br>
+<br>
 
-<a href="https://www.linkedin.com/in/arnav-gupta-42a376258/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:arnavhardwar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://reddituseranalyser.netlify.app/">
-  <img src="https://img.shields.io/badge/Reddit_Analyser-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>&nbsp;
-<a href="https://imaginoimages.netlify.app/">
-  <img src="https://img.shields.io/badge/Imagino_AI-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=arnavgupta007&style=for-the-badge&color=00FFD2&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/arnavgupta007?style=for-the-badge&color=00FFD2&labelColor=0d1117&label=FOLLOWERS"/>
-
-<br><br>
 
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
