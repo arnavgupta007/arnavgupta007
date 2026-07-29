@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/main/banner.png" width="100%"/>
-![Arnav Gupta](./ascii_portrait.svg)
+<p align="center">
+  <img src="./ascii_portrait.svg" alt="Arnav Gupta" width="500">
+</p>
 <!-- PIKACHU + NAME SIDE BY SIDE -->
 <table border="0" align="center" width="100%">
 <tr>
