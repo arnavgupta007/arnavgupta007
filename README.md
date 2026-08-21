@@ -19,26 +19,10 @@
 </table>
 
 <!-- MEME SECTION -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="250"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="250"/>
-  <br>
-  <i>me at 3am pushing to main 💀</i>
-</p>
+
 
 <!-- NEON SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
-&nbsp;&nbsp;
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=00FFD2&center=true&vCenter=true&width=400&height=35&lines=Initializing+profile...;Loading+Arnav+Gupta...;Access+Granted+✅" alt="Terminal Loading"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
-</div>
 <!-- TERMINAL BOX -->
 <div align="center">
 
